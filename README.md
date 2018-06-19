@@ -11,9 +11,5 @@ Uses- Add below lines in your layout xml file-
         
         android:layout_marginTop="3dp"
 
-        android:layout_below="@+id/progressBar"
-        android:layout_alignLeft="@+id/progressBar"
-        android:layout_alignStart="@+id/progressBar"
         android:id="@+id/gauge"
-        android:layout_alignRight="@+id/progressBar"
-        android:layout_alignEnd="@+id/progressBar" />
+         />
